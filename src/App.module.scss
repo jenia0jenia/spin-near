@@ -1,0 +1,21 @@
+.pageWrapper {
+  width: 100%;
+  min-height: 100vh;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  // background-color: aliceblue;
+}
+
+.pairSelect {
+  width: 100%;
+}
+
+.balance {
+  font-weight: 700;
+}
+
+.orderBook {
+  margin-top: 16px;
+}
