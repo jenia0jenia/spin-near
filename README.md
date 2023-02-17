@@ -1,5 +1,9 @@
 Stack - React / TypeScript / Web3 / NEAR / SASS / ANT
 
+
+Just use Vercel version, Den - [https://spin-near.vercel.app](https://spin-near.vercel.app).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
